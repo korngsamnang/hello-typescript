@@ -1,4 +1,4 @@
-## Learning Typescript for Beginners
+# Learning Typescript for Beginners😊
 
 This repo gives you a basic understanding of Typescript and how to use it in your projects. It likes a roadmap for you to learn Typescript.
 
